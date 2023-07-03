@@ -86,7 +86,7 @@ Google Maps API
 Location Autocomplete API
 Getting Started
 Clone the project:
-git clone https://github.com/[your-username]/uber-clone.git
+git clone https://github.com/Greko2017/uber-clone.git
 
 Code snippet
 
